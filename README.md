@@ -12,3 +12,4 @@ Website for my personal portfolio
     - [ ] etc...
 - [ ] Upload resume
     - Add link to resume in index.html
+- [ ] Add custom word writing and backspacing animation
