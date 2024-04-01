@@ -2,13 +2,16 @@
 Website for my personal portfolio
 
 ## To-Do
-- [ ] Update color scheme 
+- [x] Update color scheme 
     - Change in style.css files
+- [x] Take out un needed sections
 - [ ] Customize with personal details
+    - [x] Change name
+    - [x] Change pictures
     - [ ] Add projects
     - [ ] Add resume
     - [ ] Add personal pics
-    - [ ] Change icons
+    - [x] Change icons
     - [ ] etc...
 - [ ] Upload resume
     - Add link to resume in index.html
