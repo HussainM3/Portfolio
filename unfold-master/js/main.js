@@ -232,6 +232,7 @@ var owlCarouselPlugin = function() {
 	    autoplay: true,
 	    autoplayHoverPause: true,
 		autoplayTimeout: 3000,
+		infinite: true,
 	    dots: false,
 	    nav: false,
 	    responsive:{
