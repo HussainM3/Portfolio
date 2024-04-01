@@ -4,7 +4,7 @@ Website for my personal portfolio
 ## To-Do
 - [x] Update color scheme 
     - Change in style.css files
-- [x] Take out un needed sections
+- [x] Take out un-needed sections
 - [ ] Customize with personal details
     - [x] Change name
     - [x] Change pictures
@@ -15,4 +15,5 @@ Website for my personal portfolio
     - [ ] etc...
 - [ ] Upload resume
     - Add link to resume in index.html
+- [x] Cleaned up footer
 - [ ] Add custom word writing and backspacing animation
